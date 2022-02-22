@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/AltexSoftIntern/static/css/main.774a8b1a.chunk.css",
+    "main.js": "/AltexSoftIntern/static/js/main.35d121a6.chunk.js",
+    "main.js.map": "/AltexSoftIntern/static/js/main.35d121a6.chunk.js.map",
+    "runtime-main.js": "/AltexSoftIntern/static/js/runtime-main.ca9ef38b.js",
+    "runtime-main.js.map": "/AltexSoftIntern/static/js/runtime-main.ca9ef38b.js.map",
+    "static/js/2.b4529e94.chunk.js": "/AltexSoftIntern/static/js/2.b4529e94.chunk.js",
+    "static/js/2.b4529e94.chunk.js.map": "/AltexSoftIntern/static/js/2.b4529e94.chunk.js.map",
+    "index.html": "/AltexSoftIntern/index.html",
+    "static/css/main.774a8b1a.chunk.css.map": "/AltexSoftIntern/static/css/main.774a8b1a.chunk.css.map",
+    "static/js/2.b4529e94.chunk.js.LICENSE.txt": "/AltexSoftIntern/static/js/2.b4529e94.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ca9ef38b.js",
+    "static/js/2.b4529e94.chunk.js",
+    "static/css/main.774a8b1a.chunk.css",
+    "static/js/main.35d121a6.chunk.js"
+  ]
+}
